@@ -1,5 +1,7 @@
 # Odoo 17 Configuration Samples
-Archived — further maintenance has moved to [LiquenOpS](https://github.com/LiquenOpS/odoo.conf-sample)
+**Archived — further maintenance has moved to [LiquenOpS](https://github.com/LiquenOpS/odoo.conf-sample).**
+
+
 This repository contains a sample `odoo.conf` file tailored for Odoo 17. The motivation behind this is that many of the available online configuration samples are for older versions like Odoo 8. To provide a more up-to-date reference, I created this sample specifically for Odoo 17.
 
 ## Important Notes
